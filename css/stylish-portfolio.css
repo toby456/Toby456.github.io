@@ -85,7 +85,7 @@ h6 {
   font-weight: 800;
 }
 
-.masthead {
+.me2 {
   min-height: 30rem;
   position: relative;
   display: table;
@@ -100,17 +100,17 @@ h6 {
   background-size: cover;
 }
 
-.masthead h1 {
+.me2 h1 {
   font-size: 4rem;
   margin: 0;
   padding: 0;
 }
 
 @media (min-width: 992px) {
-  .masthead {
+  .me2 {
     height: 100vh;
   }
-  .masthead h1 {
+  .me2 h1 {
     font-size: 5.5rem;
   }
 }
